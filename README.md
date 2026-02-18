@@ -15,8 +15,7 @@ I built this for my Software Engineering course at UniBo to make study sessions 
 ### 📖 Documentation
 For a deep dive into the architecture, design patterns, and implementation details of this project, you can read the full documentation here:
 
-📂 **[Download/View Project Documentation (PDF)](./Flashy.pdf)** *(Note: Replace "Relazione.pdf" with the actual name of your file after you upload it to the repo)*
-
+📂 **[Download/View Project Documentation (PDF)](./Flashy.pdf)** 
 ---
 
 ### 🚀 Key Features
