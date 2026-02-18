@@ -15,7 +15,7 @@ I built this for my Software Engineering course at UniBo to make study sessions 
 ### 📖 Documentation
 For a deep dive into the architecture, design patterns, and implementation details of this project, you can read the full documentation here:
 
-📂 **[Download/View Project Documentation (PDF)](./Flashy.pdf)** 
+📂 *[View Project Documentation (PDF)](./Flashy.pdf)*
 ---
 
 ### 🚀 Key Features
