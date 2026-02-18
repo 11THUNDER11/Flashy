@@ -1,0 +1,41 @@
+body {
+ font-family: Verdana, Helvetica, sans-serif;
+ font-size: 9pt;
+ background: orange;
+ color: #000;
+}
+
+a {
+	text-decoration: none
+}
+
+button {
+    font-size: 25pt;
+    font-weight: bold;
+    padding: 20pt;
+    border-color: lightgrey;
+    border-width: thick;
+    color: white;
+    background: #FFC300;	
+}
+
+#lineeLog {
+	margin-bottom: 60pt;
+}
+
+.line {
+	font-size: 16pt;
+	color: white
+}
+
+#divButtons {
+	text-align: center
+}
+
+#benvenuto {
+	font-family: Courier New, monospace;
+	font-size: 45pt;
+	font-style: italic;
+	text-align: center;
+	color: white
+}

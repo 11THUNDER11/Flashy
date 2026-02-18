@@ -1,0 +1,93 @@
+body {
+ font-family: Verdana, Helvetica, sans-serif;
+ font-size: 9pt;
+ background: orange;
+ color: #000;
+}
+
+a {
+	text-decoration: none
+}
+
+:disabled{
+	background: #d1a000;
+}
+
+p {
+	font-family: Courier New, monospace;
+	font-size: 18pt;
+	font-style: italic;
+	text-align: center;
+	color: white
+}
+
+#domanda, #risposta {
+    width: 80%;
+    height: 10%;
+    text-align: center;
+    font-size: 16pt;
+    padding-top: 10pt;
+    padding-bottom: 10pt;
+    resize: none;
+    overflow: hidden;
+}
+
+#num{
+	font-family: Courier New, monospace;
+	font-size: 25pt;
+	font-style: italic;
+	text-align: center;
+	color: white
+}
+
+#button, .button, button {
+    font-size: 25pt;
+    font-weight: bold;
+    padding: 20pt;
+    margin-top: 10pt;
+    border-color: lightgrey;
+    border-width: thick;
+    color: white;
+    background: #FFC300;	
+}
+
+form, div {
+	text-align: center
+}
+
+input {
+	text-align: center;
+}
+
+#benvenuto {
+	font-family: Courier New, monospace;
+	font-size: 45pt;
+	font-style: italic;
+	text-align: center;
+	color: white
+}
+
+#username, #password, #nome {
+	width: 50%;
+	margin-bottom: 20pt;
+	font-size: 20pt;
+	padding: 10pt;
+}
+
+.underlined{
+	text-decoration: underline;
+}
+
+#negativo{
+	background: #FF474C
+}
+
+#positivo{
+	background: #34d42f;
+	width: 112px;
+	height: 100px;
+}
+
+#concludi{
+	background: #7f8ee3;
+}

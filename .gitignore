@@ -1,0 +1,12 @@
+# Eclipse metadata
+.settings/
+.project
+.classpath
+
+# Build and temp folders
+bin/
+build/
+tmp/
+
+# OS specific
+.DS_Store

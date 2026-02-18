@@ -1,0 +1,44 @@
+body {
+ font-family: Verdana, Helvetica, sans-serif;
+ font-size: 9pt;
+ background: orange;
+ color: #000;
+}
+
+a {
+	text-decoration: none
+}
+
+#button, button, #tipoSimulazione, #tipoEsercitazione {
+    font-size: 25pt;
+    font-weight: bold;
+    padding: 20pt;
+    margin-top: 10pt;
+    border-color: lightgrey;
+    border-width: thick;
+    color: white;
+    background: #FFC300;	
+}
+
+form, div {
+	text-align: center
+}
+
+input {
+	text-align: center;
+}
+
+#benvenuto {
+	font-family: Courier New, monospace;
+	font-size: 45pt;
+	font-style: italic;
+	text-align: center;
+	color: white
+}
+
+#lunghezza, #argomentoScelto, #tipoSimulazione, #tipoEsercitazione{
+	width: 80%;
+	margin-bottom: 20pt;
+	font-size: 20pt;
+	padding: 10pt;
+}

@@ -1,0 +1,91 @@
+body {
+ font-family: Verdana, Helvetica, sans-serif;
+ font-size: 9pt;
+ background: orange;
+ color: #000;
+}
+
+a {
+	text-decoration: none
+}
+
+table{
+	margin: auto;
+}
+
+button, .eliminaButton {
+    font-size: 25pt;
+    font-weight: bold;
+    padding: 20pt;
+    border-color: lightgrey;
+    border-width: thick;
+    color: white;
+    background: #FFC300;	
+}
+
+#elenco {
+	margin-bottom: 60pt;
+	text-align: center
+}
+
+.borderTable {
+	border: 1px solid white;
+}
+
+th, td {
+	border: 1px solid white;
+	padding: 20pt;
+}
+
+.row {
+	font-size: 16pt;
+	font-weight: normal;
+	color: white
+}
+
+.noBorder {
+	border: 0px solid white;
+	margin: auto;
+}
+
+.eliminaButton {
+	padding: 15pt;
+	background: #FF474C
+}
+
+#benvenuto, #spiegazione {
+	font-family: Courier New, monospace;
+	font-size: 35pt;
+	font-style: italic;
+	text-align: center;
+	color: white
+}
+
+#spiegazione{
+	font-size: 20pt;
+}
+
+#buttonTable {
+	margin: auto;
+}
+
+#aggiungiCartaButton{
+	background: #6bc9b7;
+}
+
+#aggiungiArgomentoButton{
+	background: #bccae0;	
+}
+
+#preliminareButton {
+	background: #7f8ee3;
+}
+
+.underlined{
+	text-decoration: underline;
+	color: white;
+}
+
+.hidden {
+	display: none;
+}
